@@ -6,6 +6,7 @@ Siamese Network for One-Shot Learning :
 
 A Siamese network is an architecture with two parallel neural networks, each taking a different input, and whose outputs are combined to provide some prediction
 
+![alt text](https://github.com/SujayGouda/face_recognition/blob/main/siamese.jpeg)
 
 
 Triplet Loss function for Learning Face Embeddings:
