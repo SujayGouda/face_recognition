@@ -17,6 +17,9 @@ The loss function penalizes the model such that the distance between the matchin
 ### Weights:
 Keras-OpenFace pretrained weights are used for minimizing triplet loss function
 
+### Euclidean distance:
+Calculates distance between the test image vector with all the images in the database. If distance is less than the threshold factor, then prediction is correct
+
 ### New-user:
 Implemented a function to start web-cam and capture users faces, crop them for training
 
